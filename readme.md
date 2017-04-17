@@ -80,7 +80,6 @@ Why are you not using [composer](http://getcomposer.org/)? Download [Carbon.php]
 ```php
 <?php
 require 'path/to/Carbon.php';
-
 use Carbon\Carbon;
 
 printf("Now: %s", Carbon::now());
